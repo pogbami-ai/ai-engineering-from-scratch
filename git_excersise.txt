@@ -1,0 +1,1 @@
+Completing Exercise 1 of the AI from Scratch Course By creating a txt file
